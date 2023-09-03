@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="中文频道",凤凰资讯台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="https://s2.loli.net/2023/07/31/KFjmgZcTk9PtBhr.jpg" group-title="中文频道",凤凰中文台
+http://103.112.191.9:880/LAOSAT1015.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://s2.loli.net/2023/08/06/dbWMTuQRxKsZ2y1.png" group-title="中文频道",翡翠台
+http://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://s2.loli.net/2023/07/30/7d8oxjNfXwMrK1i.jpg",寰宇新闻
+http://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://s2.loli.net/2023/07/30/CjgputfQPOHE5ha.jpg",东森新闻
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+
+
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻台" tvg-logo="https://s2.loli.net/2023/01/27/HaCP8dqblvYyBXm.jpg" group-title="中文频道",无线新闻台
+https://list.iptvcat.com/my_list/s/eb6d8efc5b63bc7563dbd2973c533191.m3u8
+#EXTINF:-1 tvg-id="143 tvg-name="凤凰香港台" tvg-logo="https://s2.loli.net/2023/01/07/gUnrS46sjVlCuwf.png" group-title="中文频道",凤凰香港台
+http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+#EXTINF:-1 group-title="中文频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://s2.loli.net/2022/10/05/xVQa8Tgc6SpModm.jpg",中天新闻
+http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 tvg-id="133" tvg-name="财经体育资讯台" tvg-logo="https://s2.loli.net/2023/02/05/t7Jq4YCP1skzhNu.jpg" group-title="中文频道",财经体育资讯台
+http://sc2022.stream-link.org/tv2306.php?id=h05
+
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://s2.loli.net/2022/11/09/2scrJIutvYXmLln.jpg",三立新闻+
+http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://s2.loli.net/2022/10/05/yVUGpzanXHxQIi9.jpg",中视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 group-title="中文频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS频道
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="中文频道" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png",台视频道台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="中文频道" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png",民视频道台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://s2.loli.net/2023/07/30/cWbO3RrVMFu9fnI.png",TVBS新闻台
+http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+
+#EXTINF:-1 group-title="中文频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb1666b8023.png",HOY TV
+https://list.iptvcat.com/my_list/s/334c18b228bec1f90182031eda6b0b86.m3u8
+#EXTINF:-1 group-title="中文频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",Viu TV
+https://list.iptvcat.com/my_list/s/dac05c14109736731021e0e32adffca0.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="日语频道" tvg-logo="https://s2.loli.net/2023/07/31/orLaDkZ5UC3RAzj.jpg",NTV NEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/22/bUlSrdVCHgm2zoj.png",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/nQyJURF46m92cOh.png",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2022/10/05/deyuSkHN8pI7FDZ.jpg",BBC News
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/03/19/6416ee2a808fe.jpeg",BBC America
+https://list.iptvcat.com/my_list/s/24534ff166a246181b5b8153e9fb1834.m3u8
+
+
+
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/QO1UVGFkMI7vEwd.png",SKY News
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+#EXTINF:-1 group-title="英语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",AL Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fabfa8f2cd1.png",IRAN International
+https://list.iptvcat.com/my_list/s/9cc6f96de8ba1e161505fe7932bb4a75.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/v7HFn3PAJ5Tfpru.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/tHXrSMRdgTFKQs6.jpg",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fabfc9c6042.png",Cheddar News
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fac03c5952d.png",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/6ARUSd4g58Ls1rQ.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/AhWq7Yt2kTunEpB.jpg",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/4bW8xcJAihBzlGr.png",France24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fac16899535.jpg",Live Now FOX News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fac186d367b.jpg",NBC News Now
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://s2.loli.net/2023/07/30/iGNJPKTXcU1nuW5.png",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fac1d825ada.jpg",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf3db74005.png",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf3fb17ace.png",Africa News
+https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf41073947.png",NewsMAX
+https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf42390772.jpg",ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf44624195.png",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf5a661050.png",PBS
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faf5c394b29.png",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="英语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fab2d33b9cb.png",CGTN纪录片
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+
+#EXTINF:-1 group-title="俄语频道" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faafa718bf4.png",RT Documentary
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="俄语频道" tvg-logo="https://pic.peo.pw/a/2023/03/08/64089182605fd.png",国家地理俄语
+https://sc.id-tv.kz/NatGeoWildHD.m3u8
+#EXTINF:-1 group-title="俄语频道" tvg-logo="https://pic.peo.pw/a/2023/03/19/6416bb20d9983.png",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/03/17/64146a28e237f.png",RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/03/07/64073b8a30adf.png",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faafa52ec55.png",RT español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faafa3e6125.jpg",Televisa News
+https://list.iptvcat.com/my_list/s/c380f0a38357a81f183a8bc1473f76fc.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faafa4cb6a8.jpg",Televisa N+
+https://list.iptvcat.com/my_list/s/63ff687ccf5864b13deb5f36c09d8284.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faafa8d47d2.jpg",Televisa Guadalajara
+https://list.iptvcat.com/my_list/s/3d678c71a3780addb51d720cdab5b6b4.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63faafa287334.jpeg",IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
+
+
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/03/07/64073b29e97d2.jpeg",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb0fe32cfee.png",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb0ff9ba7aa.png",Sky News Arabic
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb100aaa6a5.png",AL Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb105312bcb.png",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb107f246a1.png",Dubai ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/03/19/6417070314861.png",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb1093ac24c.png",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="阿拉伯语" tvg-logo="https://pic.peo.pw/a/2023/02/26/63fb10a5d865d.png",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+
+
+
+
+
+
+
+
+
+
