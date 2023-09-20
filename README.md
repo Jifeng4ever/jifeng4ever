@@ -1,4 +1,4 @@
-### Hi there 👋
+### it is my private github channel 👋
 
 <!--
 **Jifeng4ever/jifeng4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
